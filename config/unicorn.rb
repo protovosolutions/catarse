@@ -1,3 +1,4 @@
+
 # frozen_string_literal: true
 
 # Due to catarse's heavy page load, we are setting it to 4 workers
